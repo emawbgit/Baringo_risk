@@ -1,4 +1,4 @@
-# Baringo_vulnerability_mitigation
+# Baringo vulnerability
 This pipeline allows to replicate the data analysis for the paper "Climate change adaptation and mitigation strategies in the Kenyan Rift Valley: the case of Baringo and Bogoria lakes"
 
 The code does the following:
